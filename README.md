@@ -22,3 +22,6 @@
 | I2C (SDA) 	|  `21`         | **I2C**                |
 | I2C (SCL) 	|  `22`         | **I2C**                |
 
+
+
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNZ14kcbGWMqDR8VfnY2OqbBZ_yNLBnknp6bNdbVLdFJkZvfe14x1BWNE3gNPLkkoqwE-B9EtRWlFOvXncPygI4Ad2eDaNQssNm-dLOLtlOS13vim048iNxWBIdWMdQplmfumpwMZZkEZtSQsiTQYcCL77?key=gF321XNkk4qEa8mGFoWMJQ)**

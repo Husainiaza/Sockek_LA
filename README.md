@@ -1,5 +1,6 @@
 # ESP32 Socket Learn and Apply 
 # **(iSocket L&A)**
+iSocket LA merupakan satu peranti IoT yang boleh digunakan sebagai satu alat yang boleh mengawal dua soket ON atau OFF melalui internet. Ia juga berfungsi untuk memantau keadaan sekeliling seperti suhu dan cahaya untuk kegunaan tertentu seperti pemantauan rumah cendawan, pemantauan dan kawalan tanaman fertigasi dan sebagainya. Tujuan alat ini dihasilkan adalah untuk memenuhi keperluan teknologi semasa untuk komuniti mempelajari IoT dari peringkat mengenali peranti IoT, menulis koding dan akhirnya boleh digunakan terus untuk kegunaan keperluan masing masing.
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfEE8QBUirltMHEvjYKrpjwSFqfLiHJqxGAvUPaRjy-O_5Bid12vXu0NQ1QAFGKjIu-sN9n_cQcYK5osdg_SvDufTvmqoax1RPWix0T_3W-dYIXU9qkfgTN4T73gsK2wB3EYlXwsJs0MXakbf-L7CaLdwg?key=gF321XNkk4qEa8mGFoWMJQ)**
 

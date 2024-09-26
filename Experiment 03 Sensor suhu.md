@@ -9,7 +9,7 @@ penambahan pada header (define)
 #include <OneWire.h>
 #include <DallasTemperature.h>
 ```
-//----Istihar Objek Sensor Suhu  --------
+Istihar Objek Sensor Suhu 
 ```
 OneWire oneWire(SensorSuhu);
 DallasTemperature sensors(&oneWire);

@@ -11,6 +11,7 @@ penambahan pada fungsi setup()
 ```
  pinMode(sensorSuis,INPUT);
 ```
+kod aturcara bagi fungsi utama (loop)
 ```
 int dataSuis = digitalRead(sensorSuis);
 Serial.println(dataSuis);

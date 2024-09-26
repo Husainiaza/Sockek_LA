@@ -14,11 +14,11 @@ https://stackedit.io/app#
 
 | Input     	|  GPIO Pin     | Topik       | 
 | :--------     | :-------      | :------------------    |
-| Relay 1   	|  `27`         | **socketaza/relay1**   |
-| Relay 2   	|  `26`         | **socketaza/relay2**     |
-| Buzzer    	|  `25`         | **socketaza/buzzer**   |
-| Onewire   	|  `4`         | **socketaza/suhu** |
-|Sensor Cahaya 	|  `34`         | **socketaza/ldr**        |
+| Relay 1   	|  `27`         | **isocket/relay1**   |
+| Relay 2   	|  `26`         | **isocket/relay2**     |
+| Buzzer    	|  `25`         | **isocket/buzzer**   |
+| Onewire   	|  `4`         | **isocket/suhu** |
+|Sensor Cahaya 	|  `34`         | **isocket/ldr**        |
 | I2C (SDA) 	|  `21`         | **I2C**                |
 | I2C (SCL) 	|  `22`         | **I2C**                |
 

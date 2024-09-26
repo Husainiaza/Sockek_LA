@@ -1,4 +1,4 @@
-# Eksperimen SENSOR SUHU DS18B20 - Ujikaji 3 : Sensor suhu 18b20 
+# Eksperimen SENSOR digital - Ujikaji 3 : Sensor suhu 18b20 
 
 
 ## Ujikaji 3: Membaca suhu 18B20 

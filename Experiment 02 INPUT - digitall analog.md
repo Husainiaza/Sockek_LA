@@ -1,7 +1,7 @@
 # **Eksperimen digital OUTPUT - Ujikaji 2 : INPUT Digital and Analog
 
 
-## Ujikaji 1a: Suis sebagai **digital INPUT**
+## Ujikaji 2a: Suis sebagai **digital INPUT**
 
 penambahan pada header (define)
 ```
@@ -18,3 +18,16 @@ Serial.println(dataSuis);
 delay(500);
 ```
 
+## Ujikaji 2b: LDR sebagai **analog INPUT**
+
+penambahan pada header (define)
+```
+#define sensorLDR 34
+```
+
+kod aturcara bagi fungsi utama (loop)
+```
+int dataSuis = digitalRead(sensorSuis);
+Serial.println(dataSuis);
+delay(500);
+```

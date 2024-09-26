@@ -10,8 +10,8 @@ penambahan pada fungsi setup()
  pinMode(sensorSuis,INPUT);
 ```
 ```
- int dataSuis = digitalRead(sensorSuis);
-  Serial.println(dataSuis);
-  delay(500);
+int dataSuis = digitalRead(sensorSuis);
+Serial.println(dataSuis);
+delay(500);
 ```
 

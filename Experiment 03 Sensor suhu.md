@@ -5,11 +5,11 @@
 
 penambahan pada header (define)
 ```
-//----- Library yang perlu dimaksudkan ---
+//----- Library yang perlu dimasukkan ---
 #include <OneWire.h>
 #include <DallasTemperature.h>
 ```
-//----ISTIHAR SENSOR SUHU DS18B20 --------
+//----Istihar Objek Sensor Suhu  --------
 ```
 OneWire oneWire(SensorSuhu);
 DallasTemperature sensors(&oneWire);

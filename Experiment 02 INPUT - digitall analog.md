@@ -27,7 +27,7 @@ penambahan pada header (define)
 
 kod aturcara bagi fungsi utama (loop)
 ```
-int dataSuis = digitalRead(sensorSuis);
-Serial.println(dataSuis);
-delay(500);
+ int dataLDR = analogRead(sensorLDR);
+ Serial.println(dataLDR);
+ delay(500);
 ```

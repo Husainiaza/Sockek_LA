@@ -1,5 +1,6 @@
 # **Eksperimen digital OUTPUT - Ujikaji 2 : INPUT Digital and Analog
 
+
 ## Ujikaji 1a: Suis as digital INPUT
 
 penambahan pada header (define)

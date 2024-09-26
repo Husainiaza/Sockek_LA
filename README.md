@@ -17,7 +17,7 @@ https://stackedit.io/app#
 | Relay 1   	|  `27`         | **socketaza/relay1**   |
 | Relay 2   	|  `26`         | **socketaza/relay2**     |
 | Buzzer    	|  `25`         | **socketaza/buzzer**   |
-| Onewire   	|  `15`         | **socketaza/suhu** |
+| Onewire   	|  `4`         | **socketaza/suhu** |
 |Sensor Cahaya 	|  `34`         | **socketaza/ldr**        |
 | I2C (SDA) 	|  `21`         | **I2C**                |
 | I2C (SCL) 	|  `22`         | **I2C**                |

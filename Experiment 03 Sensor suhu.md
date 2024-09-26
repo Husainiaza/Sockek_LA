@@ -5,7 +5,7 @@
 
 penambahan pada header (define)
 ```
-//----- Library yang perlu dimasukkan ---
+Library yang perlu dimasukkan 
 #include <OneWire.h>
 #include <DallasTemperature.h>
 ```

@@ -30,4 +30,16 @@ digitalWrite(relay01,HIGH);
   digitalWrite(relay02,HIGH);
   delay(1000);
 ```
+## Ujikaji 1e: BUZZER - ON
+```
+digitalWrite(buzzer,HIGH);
+```
+## Ujikaji 1e: BUZZER - ON - OFF ( ala wad ICU ) 
+```
+ digitalWrite(buzzer,HIGH);
+ delay(500);
+ digitalWrite(buzzer,LOW);
+ delay(500);
+```
+Sila buat perubahan masa delay() utk bunyi yang berbeza.
 https://markdownlivepreview.com/

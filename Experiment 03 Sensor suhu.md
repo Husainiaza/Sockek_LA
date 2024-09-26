@@ -15,15 +15,16 @@ OneWire oneWire(SensorSuhu);
 DallasTemperature sensors(&oneWire);
 penambahan pada fungsi setup()
 ```
-
-
-
-
- pinMode(sensorSuis,INPUT);
+penambahan pada fungsi setup()
+```
+sensors.begin();
 ```
 kod aturcara bagi fungsi utama (loop)
 ```
-int dataSuis = digitalRead(sensorSuis);
-Serial.println(dataSuis);
-delay(500);
+sensors.requestTemperatures(); 
+float temperatureC = sensors.getTempCByIndex(0);
+  
+Serial.println("---------------- socket LA -------------");  
+Serial.print(temperatureC);
+Serial.println(" ºC");
 ```

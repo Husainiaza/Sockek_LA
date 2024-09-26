@@ -1,7 +1,7 @@
 # **Eksperimen digital OUTPUT - Ujikaji 2 : INPUT Digital and Analog
 
 
-## Ujikaji 1a: Suis as digital INPUT
+## Ujikaji 1a: Suis sebagai **digital INPUT**
 
 penambahan pada header (define)
 ```

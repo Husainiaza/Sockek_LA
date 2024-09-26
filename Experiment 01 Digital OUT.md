@@ -41,5 +41,6 @@ digitalWrite(buzzer,HIGH);
  digitalWrite(buzzer,LOW);
  delay(500);
 ```
-Sila buat perubahan masa delay() utk bunyi yang berbeza.
+Sila buat perubahan masa delay(). Lihat perbezaan bunyi yang terhasil.
+
 https://markdownlivepreview.com/
